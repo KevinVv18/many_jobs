@@ -6,3 +6,4 @@ require 'pry'
 require_relative "many_jobs/version"
 require_relative "many_jobs/job"
 require_relative "many_jobs/cli"
+require_relative "many_jobs/scraper"
